@@ -49,8 +49,7 @@ public class Inventory {
 				//close the file
 				scan.close();
 				
-				//invoke setBubleSort
-				//setBubleSort();
+				
 
 			}//end of try
 
@@ -63,4 +62,4 @@ public class Inventory {
 
 
 
-}
+}//END OF INVENTORY
